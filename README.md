@@ -9,13 +9,13 @@ I enjoy learning by building, practicing, and documenting everything I study. Th
 ## 👨‍💻 Current Skills
 
 - C++
-- Object-Oriented Programming (OOP)
 - Java
-- Basic Linux
+- Object-Oriented Programming (OOP)
+- Linux Fundamentals (Learning)
 
 ## 🎯 Current Focus
 
-- Linux Fundamentals
+- Linux Fundamentals (Learning)
 - Networking
 - Cybersecurity
 - Bash Scripting
@@ -23,21 +23,19 @@ I enjoy learning by building, practicing, and documenting everything I study. Th
 
 ## 🚀 Goals
 
-- Building a strong foundation in cybersecurity
+- Build a strong foundation in cybersecurity
 - Develop practical skills through labs and projects
 - Create a professional cybersecurity portfolio
 - Continuously learn and improve every day
 
 ## 📂 Repository Structure
 
-This repository will grow as I continue learning:
+This repository is organized into different learning areas and will continue to grow as I expand my knowledge and skills.
 
 - Linux
 - Networking
 - Programming
 - Web Security
 - Projects
-
-> "Learning one step at a time."
 
 > *"Every expert was once a beginner. This repository reflects my journey of learning, practicing, and growing one step at a time."*
