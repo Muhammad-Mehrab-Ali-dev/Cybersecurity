@@ -1,4 +1,4 @@
-# 🐧 Linux Journey – Lab 02
+# 🐧 Linux Journey – Lab 01
 
 # Meeting Your Terminal
 
