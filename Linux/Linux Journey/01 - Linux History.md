@@ -1,4 +1,4 @@
-# 🐧 Linux Journey – Lesson 01
+# 🐧 Linux Journey 
 
 # Story of Linux
 
