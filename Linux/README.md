@@ -6,9 +6,7 @@ This section covers Linux concepts, command-line skills, system administration b
 
 ## Learning Path
 
-### 1. Theory
-
-Learn the concepts and fundamentals of Linux.
+### Learn the concepts and fundamentals of Linux.
 
 Topics will include:
 
@@ -27,9 +25,7 @@ Topics will include:
 - Shell and command-line fundamentals
 - Bash scripting
 
-### 2. Labs
-
-Practice Linux concepts through hands-on exercises.
+### Practice Linux concepts through hands-on exercises.
 
 Each lab will contain:
 
