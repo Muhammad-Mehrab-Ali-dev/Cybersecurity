@@ -68,9 +68,7 @@ My goal is to build a strong low-level computer foundation and gradually connect
 
 **Computer Architecture → Assembly → Operating Systems → Networking → Scripting → Cybersecurity**
 
-## 📈 Progress
 
-This repository will be updated as I continue learning and practicing Assembly Language.
 
 ---
 
