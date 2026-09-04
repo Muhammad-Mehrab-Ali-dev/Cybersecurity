@@ -4,7 +4,4 @@ This folder contains programming resources, code, and practice related to cybers
 
 Languages include:
 
-- C++
-- Java
-- Python
-- Bash
+- Assembly Language
