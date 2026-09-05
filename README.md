@@ -8,10 +8,7 @@ I enjoy learning by building, practicing, and documenting everything I study. Th
 
 ## 👨‍💻 Current Skills
 
-- C++
-- Java
-- Object-Oriented Programming (OOP)
-- Linux Fundamentals (Learning)
+- Assembly-Language
 
 ## 🎯 Current Focus
 
