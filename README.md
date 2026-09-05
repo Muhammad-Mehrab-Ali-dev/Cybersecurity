@@ -33,6 +33,13 @@ This repository is organized into different learning areas and will continue to 
 - Networking
 - Programming
 - Web Security
-- Projects
+- 
+---
+
+### 📌 Note
+This repository is a work in progress.  
+I update it as I learn new things. Everything here is part of my learning journey.
+
+---
 
 > *"Every expert was once a beginner. This repository reflects my journey of learning, practicing, and growing one step at a time."*
