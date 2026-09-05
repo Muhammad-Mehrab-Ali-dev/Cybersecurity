@@ -1,5 +1,29 @@
 # Linux Journey
 
+This directory contains my structured Linux learning path based on [Linux Journey](https://linuxjourney.com).
+
+---
+
+## Learning Track
+
+### Grasshopper
+Focuses on building fundamental Linux skills.
+
+**Topics:**
+1. Getting Started  
+2. Command Line  
+3. Text-Fu  
+4. Advanced Text-Fu  
+5. User Management  
+6. Permissions  
+7. Processes  
+8. Packages  
+
+---
+
+## Goal
+Build a solid Linux foundation through consistent learning and documentation before moving to advanced cybersecurity topics.# Linux Journey
+
 This directory contains my Linux learning journey, practical exercises, notes, and hands-on labs as part of my cybersecurity learning path.
 
 ## Learning Path
