@@ -1,5 +1,38 @@
 # Grasshopper
 
+Grasshopper is the Linux fundamentals track from Linux Journey.
+
+This section is used to document concepts, commands, and notes as I progress through the topics.
+
+---
+
+## Topics
+
+- Getting Started
+- Command Line
+- Text-Fu
+- Advanced Text-Fu
+- User Management
+- Permissions
+- Processes
+- Packages
+
+---
+
+## Documentation Style
+
+For each topic (as completed), I aim to record:
+
+- Key concepts learned
+- Important commands
+- Practical examples
+- Personal notes and takeaways
+
+---
+
+## Goal
+Develop strong command-line and system fundamentals that support further cybersecurity learning.# Grasshopper
+
 Grasshopper is my Linux fundamentals learning track from Linux Journey.
 
 This section documents what I learn through theory, hands-on practice, command-line exercises, and personal notes.
