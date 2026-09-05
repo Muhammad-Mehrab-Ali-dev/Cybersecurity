@@ -1,4 +1,39 @@
-# 🐧 Linux
+# Linux
+
+## Overview
+This section covers Linux fundamentals as part of my cybersecurity learning journey.
+
+Linux is a core skill for system administration, networking, and security work.  
+This directory contains my learning notes, structured path, and practical documentation.
+
+---
+
+## Structure
+
+| Folder            | Description                              |
+|-------------------|------------------------------------------|
+| **Linux-journey** | Structured learning path based on Linux Journey |
+
+---
+
+## Learning Focus
+
+Current focus areas include:
+
+- Linux basics and distributions
+- Command line fundamentals
+- Filesystem and navigation
+- Users, groups, and permissions
+- Processes and package management
+- Introduction to Bash
+
+---
+
+## Approach
+
+Learn → Practice → Document
+
+I follow a structured path and document concepts as I progress.# 🐧 Linux
 
 Linux is one of the most important foundations for cybersecurity.
 
