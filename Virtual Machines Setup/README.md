@@ -1,54 +1,21 @@
-# Virtual Machines Setup
-
-## Overview
-This directory documents the virtual machine environments created for cybersecurity learning and practice.
-
-Virtual machines provide isolated environments to safely practice Linux, networking, and security-related exercises without affecting the host system.
-
----
-
-## Environments Configured
-
-| Operating System | Purpose                          | Status     |
-|------------------|----------------------------------|------------|
-| Ubuntu Linux     | General Linux practice           | Installed  |
-| Kali Linux       | Security tools and practice      | Installed  |
-
----
-
-## Setup Process
-
-The following steps were followed to create the virtual machines:
-
-1. Installed VirtualBox
-2. Downloaded Ubuntu and Kali Linux ISO images
-3. Created new virtual machines
-4. Allocated system resources (RAM, CPU, Storage)
-5. Attached ISO images and completed installation
-6. Verified successful installation
-
----
-
 ## Screenshots
 
-Screenshots of the VM creation, installation, and configuration process are available in the `ScreenShots` folder.
+### 01 — VirtualBox Manager
 
----
+![VirtualBox Manager](./ScreenShots/01-virtualbox-manager/virtualbox-manager.png)
 
-## Purpose
+### 02 — Ubuntu Desktop
 
-These virtual machines are used for:
+![Ubuntu Desktop](./ScreenShots/02-ubuntu-desktop/ubuntu-desktop.png)
 
-- Practicing Linux commands and system administration
-- Learning basic concepts in a controlled environment
-- Building foundational lab skills
+### 03 — Ubuntu Terminal
 
-All practice is performed only on systems and environments owned by me.
+![Ubuntu Terminal](./ScreenShots/03-ubuntu-terminal/ubuntu-terminal.png)
 
----
+### 04 — Kali Linux Desktop
 
-## Tools Used
+![Kali Linux Desktop](./ScreenShots/04-kali-desktop/kali-desktop.png)
 
-- Oracle VirtualBox
-- Ubuntu Linux
-- Kali Linux
+### 05 — Kali Linux Terminal
+
+![Kali Linux Terminal](./ScreenShots/05-kali-terminal/kali-terminal.png)
