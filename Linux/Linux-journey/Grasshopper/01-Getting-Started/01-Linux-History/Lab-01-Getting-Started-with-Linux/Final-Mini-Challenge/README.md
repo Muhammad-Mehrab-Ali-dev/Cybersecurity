@@ -521,4 +521,7 @@ Through this mini challenge, I practiced:
 * clearing the terminal
 * verifying that files still exist
 
+![Final Mini Challenge](Screenshots-of-mini-challange.png)
+
+
 This is a small exercise, but these fundamentals will become useful later when working with **Linux administration, cybersecurity tools, scripting, logs, permissions, and security investigations**.
