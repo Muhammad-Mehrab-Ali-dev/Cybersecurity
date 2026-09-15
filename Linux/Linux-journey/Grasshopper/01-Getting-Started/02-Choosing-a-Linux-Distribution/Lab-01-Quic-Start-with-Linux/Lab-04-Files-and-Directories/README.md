@@ -3,31 +3,9 @@
 # 🔐 Project: Linux-Cybersecurity-Evidence-Management-Project
 
 > **A beginner cybersecurity project demonstrating Linux file and directory management through a simulated evidence-handling workflow.**
+>**This lab focuses on understanding how Linux manages **files and directories**.
+>Instead of only practicing commands individually, I applied them in a small **cybersecurity-themed project**.
 
----
-
-## 📌 About This Lab
-
-This lab focuses on understanding how Linux manages **files and directories**.
-
-The main commands practiced were:
-
-* `mkdir`
-* `touch`
-* `ls`
-* `ls -l`
-* `cp`
-* `cp -r`
-* `cp -i`
-* `mv`
-* `rm`
-* `rm -r`
-* `rm -i`
-* `rmdir`
-
-Instead of only practicing these commands individually, I applied them in a small **cybersecurity-themed project**.
-
----
 
 # 🎯 Project Objective
 
@@ -440,67 +418,67 @@ The following screenshots document the actual Ubuntu project workflow.
 
 ## 01 — Workspace Created
 
-![Workspace Created](screenshots/01-workspace-created.png)
+![Workspace Created](Screenshots/01-workspace-created.png.png)
 
 ---
 
 ## 02 — Evidence Files Created
 
-![Evidence Files Created](screenshots/02-evidence-files-created.png)
+![Evidence Files Created](Screenshots/02-evidence-files-created.png.png)
 
 ---
 
 ## 03 — Evidence Content
 
-![Evidence Content](screenshots/03-evidence-content.png)
+![Evidence Content](Screenshots/03-evidence-content.png.png)
 
 ---
 
 ## 04 — Investigation Notes
 
-![Investigation Notes](screenshots/04-investigation-notes.png)
+![Investigation Notes](Screenshots/04-investigation-notes.png.png)
 
 ---
 
 ## 05 — Backup Created
 
-![Backup Created](screenshots/05-backup-created.png)
+![Backup Created](Screenshots/05-backup-created.png.png)
 
 ---
 
 ## 06 — Backup Renamed
 
-![Backup Renamed](screenshots/06-backup-renamed.png)
+![Backup Renamed](Screenshots/06-backup-renamed.png.png)
 
 ---
 
 ## 07 — File Moved
 
-![File Moved](screenshots/07-file-moved.png)
+![File Moved](Screenshots/07-file-moved.png.png)
 
 ---
 
 ## 08 — Controlled Cleanup
 
-![Controlled Cleanup](screenshots/08-controlled-cleanup.png)
+![Controlled Cleanup](Screenshots/08-controlled-cleanup.png.png)
 
 ---
 
 ## 09 — Final Project Verification
 
-![Final Project Verification](screenshots/09-final-project.png)
+![Final Project Verification](Screenshots/09-final-project.png.png)
 
 ---
 
 ## 9A — Evidence Project Tree
 
-![Evidence Project Tree](screenshots/9a-evidencetree.png)
+![Evidence Project Tree](Screenshots/9a-evidencetree.png.png)
 
 ---
 
 ## 9B — Backup Project Tree
 
-![Evidence Backup Tree](screenshots/9b-evidence-backup-v1-tree.png)
+![Evidence Backup Tree](Screenshots/9b-evidence-backup-v1-tree.png.png)
 
 ---
 
