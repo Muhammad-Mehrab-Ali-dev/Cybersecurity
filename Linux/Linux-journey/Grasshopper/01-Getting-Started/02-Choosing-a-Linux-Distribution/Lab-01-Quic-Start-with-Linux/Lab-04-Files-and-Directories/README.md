@@ -482,6 +482,18 @@ The following screenshots document the actual Ubuntu project workflow.
 
 ---
 
+## 9A — Evidence Project Tree
+
+![Evidence Project Tree](Screenshots/9a-evidencetree.png.png)
+
+---
+
+## 9B — Backup Project Tree
+
+![Evidence Backup Tree](Screenshots/9b-evidence-backup-v1-tree.png.png)
+
+---
+
 # 📂 Final Repository Structure
 
 ```text
