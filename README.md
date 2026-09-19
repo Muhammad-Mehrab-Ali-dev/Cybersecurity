@@ -9,6 +9,9 @@ I enjoy learning by building, practicing, and documenting everything I study. Th
 ## 👨‍💻 Current Skills
 
 - Assembly-Language
+- C++
+- Java in OOP
+- Python
 
 ## 🎯 Current Focus
 
