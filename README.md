@@ -12,6 +12,7 @@ I enjoy learning by building, practicing, and documenting everything I study. Th
 - C++
 - Java in OOP
 - Python
+- MS Sql
 
 ## 🎯 Current Focus
 
