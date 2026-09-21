@@ -37,7 +37,7 @@ This repository is organized into different learning areas and will continue to 
 - Networking
 - Programming
 - Web Security
-- 
+- Virtual Machines Setup
 ---
 
 ### 📌 Note
