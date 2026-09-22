@@ -1,4 +1,4 @@
-#🛡️  PACI — CCNA 200-301 Networking
+# 🛡️  PACI — CCNA 200-301 Networking
 
 > **Cybersecurity Specialization — Networking & Lab Readiness**
 
