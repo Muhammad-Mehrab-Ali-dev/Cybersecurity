@@ -2,24 +2,17 @@
 
 ## 🎯 Objective
 
-Understand the purpose of network emulation platforms and how tools such as **GNS3** and **EVE-NG** are used to build, configure, test, and troubleshoot network topologies.
+Understand the role of network emulation platforms in building, configuring, testing, and troubleshooting network environments.
+
+This lecture introduced **GNS3** and **EVE-NG**, with EVE-NG selected as the primary platform for my hands-on networking labs.
 
 ---
 
 ## 🌐 What is GNS3?
 
-**GNS3 (Graphical Network Simulator-3)** is an open-source network emulator that allows users to create virtual network topologies and work with different network devices.
+**GNS3 (Graphical Network Simulator-3)** is a network simulation and emulation platform used to create virtual network topologies and practice configurations in a lab environment.
 
-It can be used to:
-
-* Build virtual network topologies
-* Configure routers and switches
-* Test network configurations
-* Troubleshoot connectivity problems
-* Practice networking without requiring physical hardware
-* Work with multiple network vendors and technologies
-
-GNS3 originally focused heavily on Cisco device emulation through **Dynamips**, but has evolved to support many different virtual appliances and technologies.
+It can be used to work with routers, switches, firewalls, and other network appliances.
 
 🔗 [GNS3 Marketplace](https://gns3.com/marketplace/appliances)
 
@@ -27,98 +20,69 @@ GNS3 originally focused heavily on Cisco device emulation through **Dynamips**, 
 
 ## 🖥️ What is EVE-NG?
 
-**EVE-NG (Emulated Virtual Environment – Next Generation)** is a multi-vendor network emulation platform.
+**EVE-NG (Emulated Virtual Environment — Next Generation)** is a network emulation platform that allows users to build and operate virtual network topologies through a web-based interface.
 
-It allows virtual network devices to be placed into a topology and configured through their normal interfaces, making it useful for networking education, certification preparation, testing, and troubleshooting.
+It supports a wide range of network appliances, including:
 
-EVE-NG supports different types of virtual network devices, including:
-
-* Cisco routers
-* Cisco switches
-* Cisco IOL/IOU devices
-* Cisco QEMU-based appliances
+* Cisco routers and switches
+* IOL/IOU images
+* QEMU-based appliances
 * Firewalls
-* Linux appliances
-* Other vendor virtual appliances
+* Linux systems
+* Multi-vendor network devices
 
-### EVE-NG Editions
-
-EVE-NG provides:
-
-* **Community Edition**
-* **Professional Edition**
-
-For this project, I use the **EVE-NG Community Edition** as my primary networking lab environment.
+For this PACI program, **EVE-NG is my primary networking lab environment**.
 
 ---
 
 ## ⚖️ GNS3 vs EVE-NG
 
-| Feature                      | GNS3                     | EVE-NG                   |
-| ---------------------------- | ------------------------ | ------------------------ |
-| Network emulation            | ✅                        | ✅                        |
-| Multi-vendor devices         | ✅                        | ✅                        |
-| Virtual topologies           | ✅                        | ✅                        |
-| Cisco devices                | ✅                        | ✅                        |
-| Open-source/community option | ✅                        | ✅                        |
-| Web-based lab interface      | Limited/depends on setup | ✅                        |
-| Used in this project         | Studied                  | **Primary lab platform** |
+| Feature                    | GNS3    | EVE-NG       |
+| -------------------------- | ------- | ------------ |
+| Network emulation          | ✅       | ✅            |
+| Virtual network topologies | ✅       | ✅            |
+| Multi-vendor support       | ✅       | ✅            |
+| Web-based lab interface    | Limited | ✅            |
+| IOL/IOU support            | ✅       | ✅            |
+| QEMU appliances            | ✅       | ✅            |
+| Used in my lab             | Studied | **Hands-on** |
 
-> **Note:** GNS3 was studied as part of the PACI introduction to network simulators. EVE-NG was selected as the primary lab environment and was actually installed, configured, and verified for this project.
+> **Note:** GNS3 was studied as part of the PACI introduction to network simulators. EVE-NG was selected as the primary platform and was actually installed, configured, and verified.
 
 ---
 
 ## 🔐 Why Network Emulation Matters for Cybersecurity
 
-A cybersecurity professional needs to understand how networks actually operate.
+Networking is a fundamental part of cybersecurity.
 
-Network emulation provides a safe environment where network behavior can be practiced without depending entirely on physical hardware.
+A network emulation environment provides a controlled way to understand and practice concepts such as:
 
-It allows me to:
-
-```text
-Build Topology
-      ↓
-Configure Devices
-      ↓
-Generate Network Traffic
-      ↓
-Test Connectivity
-      ↓
-Troubleshoot Problems
-      ↓
-Understand Network Behavior
-      ↓
-Apply Network Security Concepts
-```
-
-This foundation will later support areas such as:
-
-* Network security
-* Traffic analysis
-* Firewalls
-* ACLs
-* VLAN security
-* Routing security
-* IDS/IPS
+* IP addressing and subnetting
+* Routing and switching
+* VLANs and trunking
+* Network segmentation
+* Access control
 * Network troubleshooting
-* Incident investigation
+* Traffic analysis
+* Network security architecture
+
+Understanding how networks operate provides the foundation for later cybersecurity topics such as **network security, intrusion detection, traffic analysis, and security monitoring**.
 
 ---
 
 ## 🧪 My Lab Environment
 
-For this project, **EVE-NG is the primary network emulation platform**.
+For my PACI networking labs, I prepared an EVE-NG environment using:
 
-The environment includes:
-
-* VMware Workstation
-* EVE-NG Community Edition
-* Cisco IOL switch images
-* Cisco Dynamips router images
-* Cisco QEMU-based images
-* WinSCP for file transfer
-* PuTTY/SSH for administration
+* **VMware Workstation**
+* **EVE-NG Community Edition**
+* **Cisco IOL images**
+* **Cisco Dynamips router images**
+* **QEMU-based network appliances**
+* **WinSCP** for file transfer
+* **PuTTY / SSH** for administration
+* **Wireshark** for network traffic analysis
+* **Cisco Packet Tracer** for additional networking practice
 
 GNS3 was studied conceptually but was **not installed** as part of this lab environment.
 
@@ -128,29 +92,26 @@ GNS3 was studied conceptually but was **not installed** as part of this lab envi
 
 ### EVE-NG Interface
 
-The EVE-NG interface was successfully accessed as part of the lab environment preparation.
+The EVE-NG web interface was successfully accessed during the preparation of my networking lab environment.
 
-![EVE-NG Interface](./screenshots/eve-ng-interface.png)
+![EVE-NG Interface](./Screenshots/eve-ng-interface.png)
 
 ---
 
 ## 🧠 Key Takeaways
 
-* **GNS3** and **EVE-NG** are network emulation platforms used to build and test virtual network environments.
-* Network emulation reduces the need for physical networking hardware during learning and testing.
-* EVE-NG supports multiple vendors and different types of virtual appliances.
-* EVE-NG Community Edition is being used as my primary networking lab environment.
-* Understanding network behavior is an important foundation for cybersecurity.
-* The next step is to prepare and verify the EVE-NG environment for practical Cisco networking labs.
+* Network emulators allow networking concepts to be practiced in controlled virtual environments.
+* GNS3 and EVE-NG provide platforms for building virtual network topologies.
+* EVE-NG was selected as my primary hands-on networking environment.
+* Working with routers, switches, and virtual appliances will support my upcoming CCNA networking labs.
+* Strong networking fundamentals are important for progressing into cybersecurity.
 
 ---
 
-## 📚 PACI
+## 📚 PACI Program
 
 **Program:** PACI Cybersecurity Program
 **Module:** CCNA 200-301
 **Section:** 01 — Network Simulator & Basics
 **Lecture:** 01 — Introduction to GNS3 and EVE-NG
-
 **Status:** ✅ Completed
-
