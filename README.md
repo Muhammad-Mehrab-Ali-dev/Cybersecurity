@@ -17,7 +17,7 @@ I enjoy learning by building, practicing, and documenting everything I study. Th
 ## 🎯 Current Focus
 
 - Linux Fundamentals (Learning)
-- Networking
+- Networking (Learning)
 - Cybersecurity
 - Bash Scripting
 - Hands-on Practice
